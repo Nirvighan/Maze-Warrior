@@ -1,2 +1,2 @@
-# Maze-Warrior
-today we have completed the maze boundary for level - 1
+# p5.play-boilerplate
+Boiler plate for p5.play
